@@ -1,2 +1,3 @@
 # adxthhhhh.github.io
-My websites
+
+A website through which I share my thoughts and the truths I have experienced.
